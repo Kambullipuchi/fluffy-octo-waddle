@@ -1,0 +1,31 @@
+{
+  "name": "canvas-27-07-15",
+  "version": "0.0.0",
+  "description": "",
+  "main": "echo \"Error: no index specified\" && exit 1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kambullipuchi/fluffy-octo-waddle.git"
+  },
+  "author": "Data Chand <data.chand@gmail.com>",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/Kambullipuchi/fluffy-octo-waddle/issues"
+  },
+  "homepage": "https://github.com/Kambullipuchi/fluffy-octo-waddle#readme",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-copy": "0.0.2",
+    "gulp-jshint": "^1.11.2",
+    "gulp-rev": "^5.1.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-usemin": "^0.3.11",
+    "gulp-watch": "^4.3.3"
+  }
+}

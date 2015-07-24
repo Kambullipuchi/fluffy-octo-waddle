@@ -1,0 +1,16 @@
+{
+  "name": "canvas-27-07-15",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Kambullipuchi/fluffy-octo-waddle",
+  "authors": [
+    "Data Chand <data.chand@gmail.com>"
+  ],
+  "license": "None",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

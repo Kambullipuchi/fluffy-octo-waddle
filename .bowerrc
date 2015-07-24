@@ -1,0 +1,5 @@
+{
+	"directory" : "src/libraries",
+	"proxy" : "http://proxy.ap.cat.com:80",
+	"https-proxy" : "http://proxy.ap.cat.com:80"
+}
